@@ -145,15 +145,9 @@ The project demonstrates:
 Add screenshots of the final Power BI dashboard here after the dashboard
 is polished.
 
-``` text
-![Power BI Dashboard](images/powerbi-dashboard.png)
-```
+![Excel Dashboard](./images/excel-dashboard.png)
 
-You can also add an Excel dashboard screenshot:
-
-``` text
-![Excel Dashboard](images/excel-dashboard.png)
-```
+![Power BI Dashboard](./images/powerbi-dashboard.png)
 
 ## Notes
 
