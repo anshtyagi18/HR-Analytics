@@ -1,0 +1,22 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Secrets
+.env
+*.env
